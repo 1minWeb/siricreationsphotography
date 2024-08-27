@@ -11226,12 +11226,13 @@ pills-peach-gradient nav-item nav-link active {
   background-color: #25d366; /* WhatsApp Green */
   color: white;
   padding: 20px;
-  border-radius: 50%;
+  border-radius: 100%;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   margin-bottom: 10px;
   cursor: pointer;
   transition: transform 0.3s ease;
+  font-size: 15px;
 }
 
 .floating-icons .icon.instagram {
